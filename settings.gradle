@@ -1,0 +1,2 @@
+rootProject.name='caps_example2'
+include ':app'
