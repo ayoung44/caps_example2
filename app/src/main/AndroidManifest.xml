@@ -12,7 +12,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".myPageFragment"></activity>
+        <activity android:name=".mapFragment" />
+        <activity android:name=".newsFragment" />
+        <activity android:name=".boardFragment" />
+        <activity android:name=".myPageFragment" />
+
         <activity android:name=".HomeActivity" />
         <activity android:name=".RegisterActivity" />
 
